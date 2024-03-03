@@ -1,0 +1,2 @@
+# tea.yam
+Say, hello
